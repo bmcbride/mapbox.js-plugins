@@ -35,6 +35,14 @@
                     "fullscreen@2x.png",
                     "fullscreen.png"
                 ]
+            },
+            "1.0.1": {
+                "files": [
+                    "Leaflet.fullscreen.min.js",
+                    "leaflet.fullscreen.css",
+                    "fullscreen@2x.png",
+                    "fullscreen.png"
+                ]
             }
         }
     },
@@ -171,12 +179,12 @@
                 "files": [
                     "css/font-awesome.css",
                     "css/font-awesome.min.css",
-                    "font/fontawesome-webfont.eot",
-                    "font/fontawesome-webfont.svg",
-                    "font/fontawesome-webfont.ttf",
-                    "font/fontawesome-webfont.woff",
-                    "font/fontawesome-webfont.woff2",
-                    "font/FontAwesome.otf",
+                    "fonts/fontawesome-webfont.eot",
+                    "fonts/fontawesome-webfont.svg",
+                    "fonts/fontawesome-webfont.ttf",
+                    "fonts/fontawesome-webfont.woff",
+                    "fonts/fontawesome-webfont.woff2",
+                    "fonts/FontAwesome.otf",
                     "L.Control.Locate.css",
                     "L.Control.Locate.ie.css",
                     "L.Control.Locate.ie.min.css",
@@ -326,6 +334,11 @@
                 "files": [
                     "leaflet-pip.js"
                 ]
+            },
+            "0.1.0": {
+                "files": [
+                    "leaflet-pip.min.js"
+                ]
             }
         }
     },
@@ -365,6 +378,14 @@
                     "mapbox.directions.png",
                     "mapbox.directions.svg"
                 ]
+            },
+            "0.4.0": {
+                "files": [
+                    "mapbox.directions.css",
+                    "mapbox.directions.js",
+                    "mapbox.directions.png",
+                    "mapbox.directions.svg"
+                ]
             }
         }
     },
@@ -382,6 +403,11 @@
                 ]
             },
             "2.0.0": {
+                "files": [
+                    "turf.min.js"
+                ]
+            },
+            "2.0.2": {
                 "files": [
                     "turf.min.js"
                 ]
